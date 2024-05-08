@@ -1,0 +1,3 @@
+aac4a88
+
+git remote add origin https://github.com/Gituserm/newlpoject.git
